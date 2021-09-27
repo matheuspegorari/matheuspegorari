@@ -16,6 +16,11 @@
 </p>
 
 <p align="left">
+  📚 Studying <strong>Analysis and System Development</strong> at Universidade Presbiteriana Mackenzie
+</p>
+
+
+<p align="left">
   💌 Feel free to contact me: ⤵️
 </p>
 
