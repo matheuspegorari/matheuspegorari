@@ -3,7 +3,7 @@
 <p align="left"> 
   <h2>Hello, I'm Matheus!</h2>
   
-  It's nice to have you here.
+  It's nice to have you here.<br>
   I'm currently working as an analyst at an ERP company<br>
 </p>
 
