@@ -2,26 +2,24 @@
 
 <p align="left"> 
   <h2>Hello, I'm Matheus!</h2>
-  
-  It's nice to have you here.<br>
   I'm currently working as an analyst at an ERP company<br>
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Java, SQL and Javascript.</strong>
+  🖥️ Languages: <strong>Java, SQL and Javascript.</strong>
 </p>
 
 <p align="left">
-  💼 My devTools: <strong>SQL Developer, Eclipse and Visual Studio Code</strong>
+  💼 My devTools: <strong>IntelliJ IDEA, PL/SQL Developer and Visual Studio Code</strong>
 </p>
 
 <p align="left">
-  📚 Studying <strong>Analysis and System Development</strong> at Universidade Presbiteriana Mackenzie
+  🎓 Graduated in <strong>Analysis and System Development</strong> from Universidade Presbiteriana Mackenzie
 </p>
 
 
 <p align="left">
-  💌 Feel free to contact me: ⤵️
+  📮Feel free to contact me:
 </p>
 
 <p align="left">
