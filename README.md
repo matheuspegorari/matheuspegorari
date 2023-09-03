@@ -33,10 +33,4 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 
   
-</p>  
-
-
-
-<br>
-<h2 align="left">🖖🏻 My stats</h2>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuspegorari&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</p>
