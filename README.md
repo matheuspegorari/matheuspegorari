@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 <p align="left"> 
-  <h2>Hello, I'm Matheus!</h2>
-  I'm currently working as an analyst at an ERP company<br>
+  <h2>Pegorari.dev</h2>
+  ideas powered by code<br>
 </p>
 
 <p align="left">
